@@ -1,0 +1,9 @@
+[package]
+name = "kirov-cli"
+version = "0.1.0"
+edition = "2021"
+authors = ["Raphasha27"]
+description = "CLI tool for managing Kirov Dynamics ecosystem"
+
+[dependencies]
+# We will add clap and reqwest later when funding/build systems are fully online
